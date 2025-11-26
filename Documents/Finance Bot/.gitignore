@@ -1,0 +1,10 @@
+# Folder yang tidak boleh diupload
+node_modules/
+
+# File konfigurasi sensitif
+.env
+service-account.json
+
+# Folder cache sistem
+.DS_Store
+npm-debug.log
